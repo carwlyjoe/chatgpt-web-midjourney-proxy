@@ -243,7 +243,7 @@ export default {
     "server": "Server",
     "about": "About",
     "model": "Model",
-    "sysname": "AI Drawing"
+    "sysname": "文雅的疯狂"
   },
   "mjtab": {
     "chat": "Chat",
