@@ -18,9 +18,9 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://raw.githubusercontent.com/Dooy/chatgpt-web-midjourney-proxy/main/src/assets/avatar.jpg',
+      avatar: 'https://img.aiexplorer.rest/pic/%E6%96%87%E9%9B%85%E7%9A%84%E7%96%AF%E7%8B%82.jpg',
       name:  t('mjset.sysname'),//'AI绘图',
-      description: 'Star on <a href="https://github.com/Dooy/chatgpt-web-midjourney-proxy" class="text-blue-500" target="_blank" >GitHub</a>',
+      description: '<a href="https://www.aiexplorer.rest/" class="text-blue-500" target="_blank" >文雅的疯狂</a>',
     },
   }
 }
